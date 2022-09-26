@@ -37,7 +37,7 @@ $buku = query("SELECT * FROM buku");
         <nav class="purple darken-4">
             <div class="container">
                 <div class="nav-wrapper">
-                    <a href="index.php" class="brand-logo">Buku</a>
+                    <a href="index.php" class="brand-logo">Jual Buku</a>
                     <a href=" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                     <ul class="right hide-on-med-and-down">
                         <li><a href="index.php">Login</a></li>
