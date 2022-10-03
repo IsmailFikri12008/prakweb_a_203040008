@@ -23,6 +23,7 @@
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="../materialize/css/materialize.css">
       <link rel="stylesheet" href="./materialize/css/materialize.min.css">
+      <link rel="stylesheet" href="detail.css">
 
       <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
